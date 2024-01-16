@@ -1,4 +1,4 @@
-# GPTs-Powered-Job-Tracker
+# GPT-Agented-Job-Tracker
 
 ## Introduction
 
